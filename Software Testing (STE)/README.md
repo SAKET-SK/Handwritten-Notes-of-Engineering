@@ -1,0 +1,6 @@
+- Unit 1 : Basics of Software Testing
+- Unit 2 : Types of Testing
+- Unit 3 : Levels of Testing and Special Tests
+- Unit 4 : Test Management
+- Unit 5 : Defect Management
+- Unit 6 : Testing Tools and Measurement
